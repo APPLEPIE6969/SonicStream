@@ -47,10 +47,10 @@ That's it. There's no database, no config file, no account to create.
 
 ## Running it
 
-Drop the `new.py` file wherever you want and run it:
+Drop the `app.py` file wherever you want and run it:
 
 ```bash
-python new.py
+python app.py
 ```
 
 A browser tab opens automatically at `http://127.0.0.1:5000`. If it doesn't, just open that address manually.

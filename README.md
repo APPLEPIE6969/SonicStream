@@ -121,4 +121,4 @@ Here's what ffmpeg actually does under the hood for each format group:
 
 ## License
 
-Do whatever you want with it.
+MIT
